@@ -26,7 +26,7 @@ Note: pip may have issues install numpy and scipy for some users. Install these 
 
 Note: If you get the message "pip: command not found", you need to install pip: sudo easy_install pip. Then retry the command above.
 
-To use the GUI features of this application, you must separately install PyQt4 using these instructions: Install PyQt4. The command line version of this program is still functional if PyQt4 is not installed.
+To use the GUI features of this application, you must separately install PyQt4 using these instructions: [Install PyQt4](https://stackoverflow.com/questions/22640640/how-to-install-pyqt4-on-windows-using-pip). The command line version of this program is still functional if PyQt4 is not installed.
 
 ## Usage
 ### Simple Stream
