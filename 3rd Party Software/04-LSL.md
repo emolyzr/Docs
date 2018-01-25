@@ -89,7 +89,9 @@ This can only be done while the board is not currently streaming.
 ## GUI
 If you would like the ability to configure the board and LSL stream with advanced settings, you can do so by running the GUI. The GUI comes up by default if you run the program with no flags:
 
-python openbci_lsl.py
+```
+-->python openbci_lsl.py
+```
 
 If you plug in your board and dongle before running the above command, the program should have already detected the appropriate settings for your board (port and daisy). If not, you can enter those yourself in the appropriate fields.
 
