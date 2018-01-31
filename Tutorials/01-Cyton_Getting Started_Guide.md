@@ -275,7 +275,7 @@ Connect the electrode wires to your Cyton board as shown below. The proper wire 
 | purple | 2N (bottom N2P pin) |
 | green | 4N (bottom N4P pin) |
 | blue | 4P (top N4P pin) |
-| red | 7N (top N7P pin) |
+| red | 7N (bottom N7P pin) |
 
 The white and black electrodes must always connect to the SRB2 pin and the bottom BIAS pin. Also, the green and blue wires must be connected to two pins of the same channel (like 4N and 4P). But the purple, red, and green/blue wires can be connected to any of the N1P through N8P channels. We decided to use channels 2, 4, and 7 for this tutorial. 
 
